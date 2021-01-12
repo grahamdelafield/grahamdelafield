@@ -51,8 +51,8 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-me">About Me</a> </li>
-    <li><a href="#getting-started">My Current Work</a></li>
-    <li><a href="#getting-started">My Programming Journey</a></li>
+    <li><a href="#my-current-work">My Current Work</a></li>
+    <li><a href="#my-programming-journey">My Programming Journey</a></li>
   </ol>
 </details>
 
@@ -74,7 +74,8 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
+<!-- Current Work -->
+## My Current Work
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
@@ -83,8 +84,8 @@ This section should list any major frameworks that you built your project using.
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Programming Journey -->
+## My Programming Journey
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
