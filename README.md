@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/Logo.png" alt="Logo" width="150" height="194">
+    <img src="images/Logo.png" alt="Logo" width="175" height="194">
   </a>
 
   <h3 align="center">Daniel Graham Delafield</h3>
