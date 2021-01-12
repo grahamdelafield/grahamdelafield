@@ -17,7 +17,7 @@
 -->
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Website][website-shield]][website-url]
 
 
 
@@ -209,3 +209,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/daniel-delafield-42531871/
 [product-screenshot]: images/screenshot.png
+[website-shield]: https://img.shields.io/website?down_color=red&style=for-the-badge&up_color=blue&up_message=Website&url=grahamdelafield.com
+[website-url]: https://www.grahamdelafield.com
