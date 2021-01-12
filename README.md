@@ -50,11 +50,9 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About Me</a>
-      <a href="#getting-started">My Current Work</a>
-      <a href="#getting-started">My Programming Journey</a>
-    </li>
+    <li><a href="#about-the-project">About Me</a> </li>
+    <li><a href="#getting-started">My Current Work</a></li>
+    <li><a href="#getting-started">My Programming Journey</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
