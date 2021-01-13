@@ -76,10 +76,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact Me
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Graham Delafield - [@DGDelafield](https://twitter.com/DGDelafield) - graham.delafield@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -114,6 +111,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/daniel-delafield-42531871/
-[product-screenshot]: images/AtBench.jpg
+[product-screenshot]: images/AtBench.JPG
 [website-shield]: https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Fwww.grahamdelafield.com
 [website-url]: https://www.grahamdelafield.com
