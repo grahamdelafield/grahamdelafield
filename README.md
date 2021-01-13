@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.lilabs.org/graham-delafield)
 
 I am a developing researcher in the fields of proteomics, bioinformatics, and computer science. Currently I am focused on analytical innovation and computational modeling to aid in the profiling and characterization of the human glycoproteome, performing graduate research at the University of Wisconsin-Madison. Anticipating graduation in May, 2023, I am interested in gaining experience in industrial and governmenta settings that allow me to exercise my technical expertise and strong communication and leadership skills.
 
@@ -63,7 +63,7 @@ I am a developing researcher in the fields of proteomics, bioinformatics, and co
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* 
 
 
 <!-- Programming Journey -->
@@ -114,6 +114,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/daniel-delafield-42531871/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/AtBench.png
 [website-shield]: https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Fwww.grahamdelafield.com
 [website-url]: https://www.grahamdelafield.com
