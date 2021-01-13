@@ -60,10 +60,20 @@ I am a developing researcher in the fields of proteomics, bioinformatics, and co
 <!-- Current Work -->
 ## My Current Work
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Currently I am using various programming languages to build bioinformatic tools to parse and visualize the human proteome.
+While most of my work is tailored to work with mass sepctrometry data, I have a vested interest in using programming languages for statistical modeling, data input/transformation/representation, web and web application development.
+
+I am an advanced Python programmer using OOP, scripting, and notebooks for the majority of my work. I am currently developing probablistic coordination tools and convolutional neural networks in medical image analysis. Beyond this, I take every opportunity to practice other programming langauges to diversify my skillset. I never say no to a challenge!
+
+Some tools I currently use are:
+* [Python](https://python.org)
+* [C](https://www.google.com/search?q=c+language&rlz=1C1CHBF_enUS867US868&oq=c+language&aqs=chrome.0.69i59j0l4j69i60l3.2269j0j4&sourceid=chrome&ie=UTF-8)
+* [JavaScript](https://www.javascript.com/)
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [CSS3](https://jquery.com)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* 
+* [DataTables](https://datatables.net/)
 
 
 <!-- Programming Journey -->
