@@ -76,10 +76,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact Me
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Graham Delafield - [@DGDelafield](https://twitter.com/DGDelafield) - graham.delafield@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
