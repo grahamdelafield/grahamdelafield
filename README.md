@@ -86,7 +86,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact Me
 
-Graham Delafield - [@DGDelafield](https://twitter.com/DGDelafield) - graham.delafield@gmail.com
+[@grahamdelafield.com](https://grahamdelafield.github.io) - [@DGDelafield](https://twitter.com/DGDelafield) - graham.delafield@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
